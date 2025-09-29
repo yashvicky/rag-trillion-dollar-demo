@@ -1,0 +1,8 @@
+streamlit
+transformers
+torch
+sentencepiece
+sentence-transformers
+numpy
+scikit-learn
+requests
